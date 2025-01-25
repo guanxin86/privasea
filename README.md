@@ -1,0 +1,2 @@
+# privasea
+privasea node
